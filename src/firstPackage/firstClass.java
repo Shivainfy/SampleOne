@@ -6,7 +6,7 @@ public class firstClass {
 		String name="Shiva";
 		int num=545;
 		System.out.println(name+ " " + num);
-		if(name="Shiva")
+		if(name=="Shiva")
 		{
 			System.out.println("correct");
 		}
